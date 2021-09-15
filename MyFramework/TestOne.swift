@@ -12,7 +12,7 @@ public class TestOne {
         
     }
     public func test() {
-        print("1234567")
+        print("1234567ABC")
     }
     public func getString() -> String {
         return "123456ABCssss"
